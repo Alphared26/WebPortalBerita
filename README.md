@@ -1,4 +1,4 @@
 # WebPortalBerita
-Pembuatan Web Portal Berita dengan fokus pembautan navbar dropdown sebagai tugas Dasar Komputasi
+Pembuatan Web Portal Berita dengan fokus pembautan navbar dropdown sebagai tugas <span style="color:red"> Dasar Komputasi <span/>
 
-in colaboration with github.com/iqbalulul19 and github.com/fachrianmaulayudha
+in colaboration with https://github.com/iqbalulul19 and https://github.com/fachrianmaulayudha

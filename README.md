@@ -1,4 +1,5 @@
-# WebPortalBerita
-Pembuatan *Web Portal Berita* dengan fokus pembautan _navbar dropdown_ sebagai tugas <span style="color:#ff0000"> Dasar Komputasi <span/>
+# **Web Portal Berita**
 
-in colaboration with [Iqbal Ulul](https://github.com/iqbalulul19) and [Muhammad Fachrian](https://github.com/fachrianmaulayudha)
+Pembuatan *Web Portal Berita* dengan fokus pembuatan _navbar dropdown_ sebagai tugas <span style="color:red;">**Dasar Komputasi**</span>.
+
+in collaboration with [Iqbal Ulul](https://github.com/iqbalulul19) and [Muhammad Fachrian](https://github.com/fachrianmaulayudha)
